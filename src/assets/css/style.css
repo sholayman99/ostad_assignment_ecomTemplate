@@ -1,0 +1,11 @@
+.active-navbar{
+   background-color: #000000;
+    color: #ffffff;
+}
+
+.notActive{
+    background-color: transparent;
+    color: #000000;
+}
+
+

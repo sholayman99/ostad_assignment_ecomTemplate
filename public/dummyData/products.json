@@ -1,0 +1,101 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "_id": "1",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/1.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Phone",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "new"
+    },
+    {
+      "_id": "2",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/2.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Phone",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "new"
+    },
+    {
+      "_id": "3",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/1.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Phone",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "sale"
+    },
+    {
+      "_id": "4",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/3.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Phone",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "new"
+    },
+    {
+      "_id": "5",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/1.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Phone",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "new"
+    },
+    {
+      "_id": "6",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/5.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Watch",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "sale"
+    },
+    {
+      "_id": "7",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/6.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Camera",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "new"
+    },
+    {
+      "_id": "8",
+      "img" : "https://htmldemo.net/hmart/hmart/assets/images/product-image/1.webp",
+      "shortDet": "Accessories",
+      "name": "Modern Smart Phone",
+      "price": "$20.90",
+      "ratings": "5",
+      "description": "Lorem ipsum dolor sit amet, consecte adipisicing elit, sed do eiusmll tempor incididunt ut labore et dolore magna aliqua. Ut enim ad mill veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exet commodo consequat. Duis aute irure dolor",
+      "categories": "Smart Device,ETC",
+      "tags": "Smart Device,Phone",
+      "remark": "new"
+    }
+  ]
+}

@@ -13,11 +13,13 @@ import Blogs from "./pages/Blogs.jsx";
 import SearchResultPage from "./pages/SearchResultPage.jsx";
 import PrivacyTermsPage from "./pages/PrivacyTermsPage.jsx";
 import FaqPage from "./pages/FaqPage.jsx";
+import AppNavbar from "./layout/AppNavbar.jsx";
 
 const App = () => {
     return (
-        <>
+        <div className="max-w-[1200px] mx-auto">
             <BrowserRouter>
+                <AppNavbar />
                 <Routes>
                     <Route path={"/"} element={<HomePage />} />
                     <Route path={"/products"} element={<ProductsPage />} />
@@ -32,9 +34,10 @@ const App = () => {
                     <Route path={"/search-result"} element={<SearchResultPage />} />
                     <Route path={"/privacy-terms"} element={<PrivacyTermsPage />} />
                     <Route path={"/faq"} element={<FaqPage />} />
+                    <Route path={"*"} element={<NotFoundPage />} />
                 </Routes>
             </BrowserRouter>
-        </>
+        </div>
     );
 };
 
