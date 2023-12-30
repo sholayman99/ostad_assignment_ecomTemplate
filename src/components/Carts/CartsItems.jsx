@@ -2,6 +2,7 @@ import React, {useEffect, useState} from 'react';
 import {findProducts} from "../../apiRequest/apiRequest.js";
 import { FaPenAlt} from "react-icons/fa";
 import { ImCross } from "react-icons/im";
+import {Link} from "react-router-dom";
 
 
 const CartsItems = () => {
@@ -14,8 +15,8 @@ const CartsItems = () => {
         })()
     }, []);
     return (
-        <div className={"my-20 font-[sans-serif]"}>
-           <h2 className={"text-2xl font-bold"}>Your cart items</h2>
+        <main className={"my-20 mx-10  font-[sans-serif]"}>
+           <h2 className={"text-2xl m-3 font-bold"}>Your cart items</h2>
             <div className="overflow-x-auto">
                 <table className="table">
                     {/* head */}
@@ -61,7 +62,31 @@ const CartsItems = () => {
 
                 </table>
             </div>
-        </div>
+
+            <div className={"my-10 flex justify-between items-center"}>
+                <div>
+                    <button className={"btn bg-[#EBEBEB] btn-wide hover:bg-primary hover:text-base-100 " +
+                        "uppercase rounded-none"}>continue shopping</button>
+                </div>
+
+                <div className={"flex items-center gap-10"}>
+                    <button className={"btn bg-[#EBEBEB] btn-wide hover:bg-primary hover:text-base-100 " +
+                        "uppercase rounded-none"}>update shopping cart</button>
+                    <button className={"btn bg-primary btn-wide hover:bg-neutral text-base-100 " +
+                        "uppercase rounded-none"}>clear shopping cart</button>
+                </div>
+
+            </div>
+
+            <div className={"flex justify-end"}>
+                <Link to={"/checkout"}>
+                    <button className={"btn btn-neutral btn-wide hover:bg-base-100 hover:text-neutral rounded-none" +
+                    " uppercase"}> proceed to checkout </button>
+                </Link>
+
+            </div>
+
+        </main>
     );
 };
 
