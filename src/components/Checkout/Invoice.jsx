@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from "react-router-dom";
 
 const Invoice = () => {
     return (
@@ -39,8 +40,8 @@ const Invoice = () => {
                          <h3 className={"text-lg my-3 font-bold"}> Cash on delivery</h3>
                      </div>
 
-                     <button className={"btn uppercase btn-primary w-full rounded-none hover:btn-neutral" +
-                         " text-base-100"}>place order</button>
+                     <Link to={"/thank-you"}><button className={"btn uppercase btn-primary w-full rounded-none hover:btn-neutral" +
+                         " text-base-100"}>place order</button></Link>
 
                  </div>
             </div>
