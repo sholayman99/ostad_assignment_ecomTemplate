@@ -7,9 +7,9 @@ const Poster = () => {
             <div className="hero-content text-center text-neutral-content">
                 <div className="">
                     <h1 className="mb-5 text-5xl  ">Smart Fashion</h1>
-                    <h1 className="mb-5 text-6xl font-bold">With Smart Devices </h1>
-                    <button className=" bg-transparent text-base-100  w-[55%] rounded-xl py-3.5 border-2 border-base-100
-                    text-lg font-semibold hover:bg-neutral hover:border-none">
+                    <h1 className="mb-5 text-6xl text-base-100 font-bold">With Smart Devices </h1>
+                    <button className=" bg-transparent text-base-100  w-[40%] rounded-xl py-3 border-2 border-base-100
+                    text-lg font-semibold hover:bg-primary hover:border-none">
                         Shop All Devices
                     </button>
                 </div>

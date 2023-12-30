@@ -30,6 +30,9 @@ const AppNavbar = () => {
                 <NavLink style={{fontWeight:"600", fontSize:"16px"}} to={"/contacts"}>Contacts</NavLink>
             </li>
             <li>
+                <NavLink style={{fontWeight:"600", fontSize:"16px"}} to={"/blogs"}>Blogs</NavLink>
+            </li>
+            <li>
                 <NavLink style={{fontWeight:"600", fontSize:"16px"}} to={"/registration"}>Login</NavLink>
             </li>
         </>

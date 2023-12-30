@@ -14,6 +14,7 @@ import SearchResultPage from "./pages/SearchResultPage.jsx";
 import PrivacyTermsPage from "./pages/PrivacyTermsPage.jsx";
 import FaqPage from "./pages/FaqPage.jsx";
 import AppNavbar from "./layout/AppNavbar.jsx";
+import Footer from "./components/Shared/Footer.jsx";
 
 const App = () => {
     return (
@@ -36,6 +37,7 @@ const App = () => {
                     <Route path={"/faq"} element={<FaqPage />} />
                     <Route path={"*"} element={<NotFoundPage />} />
                 </Routes>
+                <Footer />
             </BrowserRouter>
         </div>
     );
