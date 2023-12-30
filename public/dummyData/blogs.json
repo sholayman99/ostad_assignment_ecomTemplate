@@ -1,0 +1,47 @@
+{
+ "status": "success",
+ "data": [
+    {
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/blog-image/3.webp",
+      "title": "The Pros and Cons of Smart Product",
+      "writer": "Wild Nick",
+      "date": "30 Dec,2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/blog-image/4.webp",
+      "title": "The Pros and Cons of Smart Product",
+      "writer": "Nick Wild",
+      "date": "30 Dec,2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/blog-image/3.webp",
+      "title": "The Pros and Cons of Smart Product",
+      "writer": "Jonas cam",
+      "date": "30 Dec,2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/blog-image/3.webp",
+      "title": "The Pros and Cons of Smart Product",
+      "writer": "Nick Wild",
+      "date": "30 Dec,2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/blog-image/3.webp",
+      "title": "The Pros and Cons of Smart Product",
+      "writer": "Jonas cam",
+      "date": "30 Dec,2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    },
+    {
+      "img": "https://htmldemo.net/hmart/hmart/assets/images/blog-image/4.webp",
+      "title": "The Pros and Cons of Smart Product",
+      "writer": "Wild Nick",
+      "date": "30 Dec,2023",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+    }
+  ]
+}

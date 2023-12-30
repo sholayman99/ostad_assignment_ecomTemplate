@@ -9,7 +9,7 @@ import CheckOut from "./pages/CheckOut.jsx";
 import Reviews from "./pages/Reviews.jsx";
 import RegistrationPage from "./pages/RegistrationPage.jsx";
 import ThankYou from "./pages/ThankYou.jsx";
-import Blogs from "./pages/Blogs.jsx";
+import BlogsPage from "./pages/BlogsPage.jsx";
 import SearchResultPage from "./pages/SearchResultPage.jsx";
 import PrivacyTermsPage from "./pages/PrivacyTermsPage.jsx";
 import FaqPage from "./pages/FaqPage.jsx";
@@ -31,7 +31,7 @@ const App = () => {
                     <Route path={"/reviews"} element={<Reviews />} />
                     <Route path={"/registration"} element={<RegistrationPage />} />
                     <Route path={"/thank-you"} element={<ThankYou />} />
-                    <Route path={"/blogs"} element={<Blogs />} />
+                    <Route path={"/blogs"} element={<BlogsPage />} />
                     <Route path={"/search-result"} element={<SearchResultPage />} />
                     <Route path={"/privacy-terms"} element={<PrivacyTermsPage />} />
                     <Route path={"/faq"} element={<FaqPage />} />
