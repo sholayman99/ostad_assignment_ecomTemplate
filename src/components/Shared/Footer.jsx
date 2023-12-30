@@ -26,7 +26,7 @@ const Footer = () => {
                    <p className={"hover:text-primary "}> <Link to={"/"}>Contact</Link> </p>
                    <p className={"hover:text-primary "}> <Link to={"/"}>Shopping Cart</Link> </p>
                    <p className={"hover:text-primary "}> <Link to={"/"}>Shop</Link> </p>
-                   <p className={"hover:text-primary "}> <Link to={"/"}>Services Login</Link> </p>
+                   <p className={"hover:text-primary "}> <Link to={"/faq"}>Faq</Link> </p>
                </div>
             </div>
 
