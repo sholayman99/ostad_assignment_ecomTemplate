@@ -23,13 +23,11 @@ const NewProducts = () => {
                       <img src= {product['img']} alt= {product['name']} className="rounded-xl hover:scale-125 transition-transform 0.3s ease-linear " />
                       </figure>
                       <div className="card-body items-center text-center">
-                       <h3 className={"text-gray-600"}>{product['shortDet']} </h3>
-                        <h2 className="text-lg font-bold">{product['name']}</h2>
-                        <h2 className={"font-semibold text-xl text-gray-500"}>{product['price']} </h2>
-
-                            </div>
-
-                    </div>)
+                          <h3 className={"text-gray-600"}>{product['shortDet']} </h3>
+                          <h2 className="text-lg font-bold">{product['name']}</h2>
+                          <h2 className={"font-semibold text-xl text-gray-500"}>{product['price']} </h2>
+            </div>
+            </div>)
                 }
             </div>
         </section>
