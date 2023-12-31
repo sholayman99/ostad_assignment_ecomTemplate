@@ -1,8 +1,19 @@
-# React + Vite
+# An Ecommerce Template Created By React+Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Requirements:
+- [node & npm](https://nodejs.org/en/)
+- [git](https://www.robinwieruch.de/git-essential-commands/)
 
-Currently, two official plugins are available:
+# Library has been used:
+1.react router dom
+2.tailwind css
+3.daisyui
+4.axios
+5.react icons
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Installation:
+ 
+- git clone https://github.com/sholayman99/ostad_assignment_ecomTemplate.git
+- cd ostad_assignment_ecomTemplate
+- npm install
+- npm run dev
