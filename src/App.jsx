@@ -6,7 +6,7 @@ import Contacts from "./pages/Contacts.jsx";
 import NotFoundPage from "./pages/NotFoundPage.jsx";
 import Carts from "./pages/Carts.jsx";
 import CheckOut from "./pages/CheckOut.jsx";
-import Reviews from "./pages/Reviews.jsx";
+import ReviewPage from "./pages/ReviewPage.jsx";
 import RegistrationPage from "./pages/RegistrationPage.jsx";
 import ThankYou from "./pages/ThankYou.jsx";
 import BlogsPage from "./pages/BlogsPage.jsx";
@@ -28,7 +28,7 @@ const App = () => {
                     <Route path={"/not-found"} element={<NotFoundPage />} />
                     <Route path={"/carts"} element={<Carts />} />
                     <Route path={"/checkout"} element={<CheckOut />} />
-                    <Route path={"/reviews"} element={<Reviews />} />
+                    <Route path={"/reviews"} element={<ReviewPage />} />
                     <Route path={"/registration"} element={<RegistrationPage />} />
                     <Route path={"/thank-you"} element={<ThankYou />} />
                     <Route path={"/blogs"} element={<BlogsPage />} />

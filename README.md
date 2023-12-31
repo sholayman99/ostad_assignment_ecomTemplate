@@ -5,11 +5,11 @@
 - [git](https://www.robinwieruch.de/git-essential-commands/)
 
 # Library has been used:
-1.react router dom
-2.tailwind css
-3.daisyui
-4.axios
-5.react icons
+- react router dom
+- tailwind css 
+- daisyui
+- axios
+- react icons
 
 # Installation:
  

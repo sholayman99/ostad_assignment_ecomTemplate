@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Reviews = () => {
+const ReviewField = () => {
     return (
-        <div className={"my-24 flex flex-col justify-center gap-5 items-center"}>
+        <div className={"my-24 px-10 flex flex-col justify-center gap-5 items-start"}>
             <h2 className={"text-2xl font-semibold"}>Send your feedback</h2>
             <div className="rating">
                 <input type="radio" name="rating-2" className="mask mask-star-2 bg-orange-400" />
@@ -17,4 +17,4 @@ const Reviews = () => {
     );
 };
 
-export default Reviews;
+export default ReviewField;

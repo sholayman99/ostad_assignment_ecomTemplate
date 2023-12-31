@@ -53,6 +53,9 @@ const AppNavbar = () => {
                 </div>
                 <Link to={"/"} className="btn btn-ghost font-bold text-2xl">Smart</Link>
             </div>
+            <div className="form-control">
+                <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
+            </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
                     {navList}

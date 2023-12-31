@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "name": "Liam Lin",
+      "rating": "4",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "name": "Liam Lin",
+      "rating": "4",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "name": "Liam Lin",
+      "rating": "4",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },
+    {
+      "name": "Liam Lin",
+      "rating": "4",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    },{
+      "name": "Liam Lin",
+      "rating": "4",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+    }
+  ]
+}

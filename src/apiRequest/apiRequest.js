@@ -24,3 +24,15 @@ export async function findBlogs (){
         return false
     }
 }
+
+export async function findReviews (){
+    try {
+        let res = await axios.get("/dummyData/reviews.json");
+        let data = await res['data'];
+        if(data['status'] === "success" ){
+            return data['data']
+        }
+    }catch (e) {
+        return false
+    }
+}
